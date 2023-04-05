@@ -23,7 +23,7 @@ nav li {
 }
 
 nav a {
-    color: #fff;
+    color: #fcf1d0;
     text-decoration: none;
 }
 
@@ -32,14 +32,16 @@ main {
     display: grid;
     justify-content: center;
     align-items: center;
+    background-color: #2c2a2c;
 }
 
 h1 {
     text-align: center;
+    color: #fcf1d0;
 }
 
 a {
-    color: black;
+    color: #fcf1d0;
     text-decoration: none;
 }
 
@@ -47,8 +49,20 @@ div {
     display: grid;
 }
 
+h3 {
+    color: #ee734b;
+}
+
+main p {
+    color: #6e99a7;
+}
+
 footer {
     background-color: #333;
-    color: #fff;
+    color: #fcf1d0;
     text-align: center;
+}
+
+main li {
+    color: #6e99a7;
 }
